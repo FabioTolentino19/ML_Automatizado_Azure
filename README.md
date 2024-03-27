@@ -10,3 +10,4 @@ Não preciso repetir todas as intruções aqui pois estão no link acima.
 ## Resultados obtidos
 
 Os resultados obtidos estão nos arquivos salvos no diretório como dados de entrada para o teste do ponto de extremidade (dadosx.json), e o resultado do teste (resultadox.json).
+OBS: Não se esqueça de ´apagar´ ou ´deletar´ tudo no Azure depois do teste.
