@@ -5,7 +5,7 @@ Exemplo de utilização de ML Automatizado do Azure
 
 Os passos executados foram do seguinte link da Microsoft, como laboratório1 [Link_Microsoft_learning](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html)
 
-Não preciso repetir todas as intruções aqui pois estãono link acima.
+Não preciso repetir todas as intruções aqui pois estão no link acima.
 
 ## Resultados obtidos
 
